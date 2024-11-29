@@ -42,4 +42,4 @@ merged_df = pd.merge(merged_df, price_filtered, on='Date', how='outer')
 print(merged_df.head())
 
 # Save the merged DataFrame if needed
-merged_df.to_csv('Data/Merged_Data.csv', index=False)
+merged_df.to_csv('Data/merged_data.csv', index=False)
