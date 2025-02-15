@@ -1,20 +1,20 @@
-# [Your Project Title Here]
+# Energy load prediction for Battery storage systems
 
 ## Repository Link
 
-[https://github.com/your_username/your_project_name]
+[(https://github.com/Timson1235/energy-timeseries-project)]
 
 ## Description
 
-[Short project description here. Briefly summarize the problem you are trying to solve and the approach you're taking.]
+In this project we tried different time series models to predict the hourly energy load in Germany which could be used to store energy more efficiently 
 
 ### Task Type
 
-[Image Classification / Chatbot / Regression / Clustering / Other]
+Time series forecasting
 
 ### Results Summary
 
-- **Best Model:** [Name of the best-performing model]
+- **Best Model:** Multivariat XGBoost
 - **Evaluation Metric:** [e.g., Accuracy, F1-Score, MSE]
 - **Result:** [e.g., 95% accuracy, F1-score of 0.8]
 
