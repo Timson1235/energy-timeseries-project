@@ -1,31 +1,30 @@
-# [Your Project Title Here]
+# Forecasting Energy Load for Efficient Use/Utilization of Battery Energy Storage Systems
 
 ## Repository Link
 
-[https://github.com/your_username/your_project_name]
+(https://github.com/Timson1235/energy-timeseries-project)
 
 ## Description
 
-[Short project description here. Briefly summarize the problem you are trying to solve and the approach you're taking.]
+In this project we tried different time series models to predict the hourly energy load in Germany which could be used to store energy more efficiently 
 
 ### Task Type
 
-[Image Classification / Chatbot / Regression / Clustering / Other]
+Time series forecasting
 
 ### Results Summary
 
-- **Best Model:** [Name of the best-performing model]
-- **Evaluation Metric:** [e.g., Accuracy, F1-Score, MSE]
-- **Result:** [e.g., 95% accuracy, F1-score of 0.8]
+- **Best Model:** Multivariat XGBoost
+- **Evaluation Metric:** MAPE, MAE
+- **Result:** MAPE: 0.0086, MAE: 489.51
 
 ## Documentation
 
-1. **[Literature Review](0_LiteratureReview/README.md)**
-2. **[Dataset Characteristics](1_DatasetCharacteristics/exploratory_data_analysis.ipynb)**
-3. **[Baseline Model](2_BaselineModel/baseline_model.ipynb)**
-4. **[Model Definition and Evaluation](3_Model/model_definition_evaluation)**
-5. **[Presentation](4_Presentation/README.md)**
+1. **[Dataset Characteristics](1_DatasetCharacteristics/exploratory_data_analysis.ipynb)**
+2. **[Baseline Model](2_BaselineModel/baseline_model.ipynb)**
+3. **[Model Definition and Evaluation](3_Model/model_definition_evaluation)**
+4. **[Presentation](4_Presentation/README.md)**
 
 ## Cover Image
+![image](https://github.com/user-attachments/assets/e49ddc21-ed51-4bae-8a2a-17e1591b2700)
 
-![Project Cover Image](CoverImage/cover_image.png)
