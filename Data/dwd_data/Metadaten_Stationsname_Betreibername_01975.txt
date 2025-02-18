@@ -1,7 +1,0 @@
-Stations_ID;Stationsname;Von_Datum;Bis_Datum
-  1975;Hamburg-Fuhlsbüttel;19340801;
-
-Stations_ID;Betreibername;Von_Datum;Bis_Datum
-  1975;Wetterdienst;19340801;19521110
-  1975;DWD;19521111;
-generiert: 18.01.2025 --  Deutscher Wetterdienst  --
