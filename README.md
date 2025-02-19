@@ -14,7 +14,7 @@ Time series forecasting
 
 ### Results Summary
 
-- **Best Model:** Multivariat XGBoost
+- **Best Model:** Multivariat LGBoost
 - **Evaluation Metric:** MAPE, MAE
 - **Result:** MAPE: 0.0086, MAE: 489.51
 
