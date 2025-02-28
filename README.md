@@ -1,4 +1,4 @@
-# Forecasting Energy Load for Efficient Use/Utilization of Battery Energy Storage Systems
+# Forecasting Energy Load for Efficient Use of Battery Energy Storage Systems
 
 ## Repository Link
 
